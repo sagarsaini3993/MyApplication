@@ -24,7 +24,7 @@ public class ExampleInstrumentedTest {
     public ActivityTestRule activityRule = new ActivityTestRule<>(MainActivity.class);
 
     public void testInputBox() {
-        fail("this message is not implemented");
+        fail("this message is not implemented yet");
     }
 
     @Test
